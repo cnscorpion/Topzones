@@ -46,7 +46,7 @@ const Footer = ({ title }) => {
           <a
             href='https://top.zones.im'
             className='underline text-gray-500 dark:text-gray-300'>
-            Top tech zones {siteConfig('VERSION')}
+            Top.Zones.IM {siteConfig('VERSION')}
           </a>
           .
         </span>
